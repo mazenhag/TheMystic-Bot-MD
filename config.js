@@ -13,7 +13,7 @@ global.owner = [
   ['201143524273', '👑 Mazen ElKing 👑', true],
   ['201143524273', '💫 Mazen Elking 💫', true],
   ['201143524273', '💫 Mazen Elking 💫', true],
-  ['201143524273', '💫Mazen ElKing 💫', true],
+  ['201143524273', '💫Mazen ElKing  💫', true],
   ['201143524273', '💫 Mazen ElKing 💫', true],
   ['201143524273', '💫 Mazen Elking 💫', true],
   ['201143524273', '💫 Mazen ElKing 💫', true],
